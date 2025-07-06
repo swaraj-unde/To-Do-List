@@ -15,17 +15,6 @@ A clean, responsive, and interactive To-Do List built using HTML, CSS, and JavaS
 
 ---
 
-## 📁 File Structure
-
-📁 ToDo-App/
-│
-├── index.html # Main HTML page
-├── style.css # Styling and layout
-└── script.js # Task logic & localStorage handling
-
-
----
-
 ## 🔧 Tech Stack
 
 - **HTML5**
@@ -40,4 +29,4 @@ This project is open-source and free to use.
 
 ---
 
-Made with 💙 by [Your Name]
+Made by Swaraj Unde : code_monarch_
